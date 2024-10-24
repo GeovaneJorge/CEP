@@ -1,0 +1,37 @@
+
+
+body {
+    background-image: url('img/banner.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* A imagem cobrirá todo o fundo */
+    background-position: center; /* Centraliza a imagem no fundo */
+    background-repeat: no-repeat; /* A imagem não se repetirá */
+    height: 100vh; /* Define a altura da página como 100% da janela */
+    margin: 0; /* Remove margens */
+    font-family: Arial, sans-serif; /* Escolha uma fonte */
+}
+
+h1 {
+    color: rgb(6, 5, 5); /* Cor do texto do título */
+    text-align: center;
+    margin-top: 50px;
+}
+
+label, input, button {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+#resultado {
+    text-align: center;
+    color: rgb(16, 13, 13);
+}
+
+img{
+    background-image: url('img/fundo.jpg');
+}
+
+script{
+    background-image: url('img/fundo.jpg');
+}
