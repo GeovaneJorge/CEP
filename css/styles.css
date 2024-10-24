@@ -29,7 +29,9 @@ label, input, button {
 }
 
 p{
+    padding: 10px;
     text-align: center;
-    font-size: 25px;
+    color: rgb(65, 56, 56);
+    font-size: small;
     
 }
