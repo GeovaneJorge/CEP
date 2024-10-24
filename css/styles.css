@@ -28,10 +28,8 @@ label, input, button {
     color: rgb(16, 13, 13);
 }
 
-img{
-    background-image: url('img/fundo.jpg');
-}
-
-script{
-    background-image: url('img/fundo.jpg');
+p{
+text-align: center;
+    font-size: 25px;
+    
 }
